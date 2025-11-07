@@ -32,3 +32,7 @@ background-color: rgb(131, 37, 131);
    display:flex ;
    justify-content: center;
 }
+
+.chamada-texto{
+    margin-right:10% ;
+}
